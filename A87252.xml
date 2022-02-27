@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Independents dream, of a new-nothing, called a church, without either government, doctrine or manners, suitable to the Gospell of Jesus Christ: zealously interpreted, by a Christian brother, who is a profest enemy to confusion. Shewing how the Independent-dreaming teachers, through the spectacles of phantasie, discover strange new-lights, and new-born truths, wherewith they delude the hearts of the simple, and allure them into the labyrinth of their innovated traditionall forme of godlinesse.</title>
+            <author>A Christian Brother.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87252</idno>
+            <idno type="STC">Wing I149</idno>
+            <idno type="STC">Thomason E404_32</idno>
+            <idno type="STC">ESTC R201865</idno>
+            <idno type="EEBO-CITATION">99862354</idno>
+            <idno type="PROQUEST">99862354</idno>
+            <idno type="VID">114511</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87252)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114511)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E404[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Independents dream, of a new-nothing, called a church, without either government, doctrine or manners, suitable to the Gospell of Jesus Christ: zealously interpreted, by a Christian brother, who is a profest enemy to confusion. Shewing how the Independent-dreaming teachers, through the spectacles of phantasie, discover strange new-lights, and new-born truths, wherewith they delude the hearts of the simple, and allure them into the labyrinth of their innovated traditionall forme of godlinesse.</title>
+                  <author>A Christian Brother.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aug: 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Congregationalism --  Controversial literature --  Early works to 1800.</term>
+               <term>Independent churches --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114511:1" rendition="simple:additions"/>
+            <p>THE Independents Dream, OF A New-Nothing, <hi>CALLED</hi> A Church, without either Govern<g ref="char:EOLhyphen"/>ment, Doctrine or Manners, ſuitable to the Goſpell of Jeſus Chriſt: Zealouſly interpreted, by a Chriſtian Brother, who is a profeſt enemy to confuſion.</p>
+            <p>Shewing how the Independent-dreaming Teachers, through the ſpectacles of phantaſie, diſcover ſtrange New-Lights, and new-born Truths, wherewith they delude the hearts of the ſimple, and allure them into the Labyrinth of their innovated traditio<g ref="char:EOLhyphen"/>nall forme of godlineſſe.</p>
+            <q>
+               <bibl>1 TIM. 4. 1.</bibl> In the latter dayes ſome ſhall depart from the faith, giving heed to ſeducing ſpirits, and doctrines of devills.</q>
+            <p>Printed in the Yeare 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114511:2"/>
+            <pb n="1" facs="tcp:114511:2"/>
+            <head>The INDEPENDENTS Dreame of a New-Nothing, called, a Church with<g ref="char:EOLhyphen"/>out either Government, Doctrine or Manners, ſuitable to the Goſpell of Jeſus Chriſt: <hi>Zealouſly interpreted by a Christian Brother, who is a profeſt enemy to confuſion.</hi>
+            </head>
+            <p>THat the Spirit hath revealed in theſe latter dayes in the Church of England ſuch ſtrange new lights, that the Saints and godly of the Land, as they call them, can clearly ſee to diſtin<g ref="char:EOLhyphen"/>guiſh themſelves from the enemies of Jeſus Chriſt, and ſeparate their ſanctified members into new moulded Congregations in purity to enjoy their new-borne truths, with a ſuppoſed imitation of the Church of Jeruſalem, <hi>Act.</hi> 1. 15. where the number of names were 120. from thence gathering, that eve<g ref="char:EOLhyphen"/>ry particular Independent Church muſt have the ſame authority that Aſſembly had, and none to bee capable of their memberſhip, untill they have had ſufficient triall of their converſation, and have heard the confeſſion of their faith, and the evidences of of the truth of their converſion, and untill they have entred into a ſolemne Covenant, and have the joynt conſent of the whole Congregation, proclaiming all that are not moulded up after their new modell,
+<pb n="2" facs="tcp:114511:3"/> to be people out of Covenant, and to have no right to the new Covenant, neither they nor their chil<g ref="char:EOLhyphen"/>dren, though believers time was when the old way, and the good way leading to eternall life was care<g ref="char:EOLhyphen"/>fully and conſtantly walked in by all thoſe who were Saints indeed, to juſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fie their publike profeſſi<g ref="char:EOLhyphen"/>on of the faith in Jeſus Chriſt: But in theſe laſt and perillous daies, ſuch braine-ſick humours have poſ<g ref="char:EOLhyphen"/>ſeſſed the ſpirits of many men, that they are carried away with every wind of Doctrine, and like meere naturaliſts, are ever thirſting after ſome new-borne truth, though the tradition of a mortall man, to tic<g ref="char:EOLhyphen"/>kle their itching eares, diſobeying the commands of their Lord and Maſter ſpecified in the Law and Goſpell, which ought to bee their rule of righte<g ref="char:EOLhyphen"/>ouſneſſe, and the perfect path to everlaſting hap<g ref="char:EOLhyphen"/>pineſſe.</p>
+            <p>The Devill hath power to transforme himſelfe into an Angell of light, and being the God of this world blinding mens eyes, the Prince of the ayre ruling in the hearts of the children of diſobedience, we may probably conjecture from whence the In<g ref="char:EOLhyphen"/>dependent ſeducing Teachers have their new lights, even from the father of lies, who was a liar from the beginning, he hath poſſeſſed their wavering and un<g ref="char:EOLhyphen"/>ſtable thoughts with an <hi>Ignis fatuus,</hi> or a prodigious Comet, which preſageth ruine to the Church and State: maintaining a faction cleane contrary to the League and Covenant, which by Ordinance of Par<g ref="char:EOLhyphen"/>liament hath been generally entred into: Good warrant have the Magiſtrates of England to ſuppreſſe any innovated faction, from the practiſe of the Pro<g ref="char:EOLhyphen"/>phets
+<pb n="3" facs="tcp:114511:3"/> and Elders of Iſrael, preſcribed in holy Writ for their imitations who in all ages had the ſword of juſtice in their hands to puniſh all ſeducers, as ap<g ref="char:EOLhyphen"/>peares <hi>Deut. 13. 1, 2, 3 4, 5. 1 Kings 18. 21. Iudges</hi> 6. 30. 31.</p>
+            <p>For their Church<g ref="char:punc">▪</g> Government after their ſepara<g ref="char:EOLhyphen"/>tion into new-moulded Congregations, the better to imitate the whole Colledge of Apoſtles and Presby<g ref="char:EOLhyphen"/>ters they would grace every ſucking Church of theirs with all <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he authority the grand Presbyterie at Jeruſalem could challenge to themſelves, and addi<g ref="char:EOLhyphen"/>tionall innovations, more then they ever practiſed, as evidently appeares, when contrary to the Scrip<g ref="char:EOLhyphen"/>tures they give authority to ſilly women to have voyces in admitting members into their ſolely ſan<g ref="char:EOLhyphen"/>ctified ſocieties.</p>
+            <p>But alas! in this they make themſelves a deriſion to all intelligent people, who are well verſed in the waies of godlineſſe becauſe they know by the teſti<g ref="char:EOLhyphen"/>mony of holy Scriptures, that as at firſt our Grand<g ref="char:EOLhyphen"/>mother <hi>Eve</hi> brought confuſion upon all mankind, e<g ref="char:EOLhyphen"/>ven ſo it would be now in our deſtracted Church and State, may their Hermophradite councells be contin<g ref="char:EOLhyphen"/>ued contrary to the Covenant: The great emoluments which do redound unto their ſeducing Teachers may move them in private to plead for this forme of Go<g ref="char:EOLhyphen"/>vernment: Yet it being contrary to the expreſſe Word of God 1 <hi>Cor. 14. 34. 35. 36. 1 Tim.</hi> 2. 9. 12. there is neither ſenſe or reaſon why ſuch diſtructive practiſes ſhould bee tolerated. What more uncha<g ref="char:EOLhyphen"/>ritable, and nnchriſtian-like ſcribling was ever pro<g ref="char:EOLhyphen"/>duced, then the pens of theſe men have in frequent
+<pb n="4" facs="tcp:114511:4"/> editions manifeſted. As that the Minſters of the Church of England, that are not of their fraternitie, doe deny, diſclaim and preach againſt Chriſts King<g ref="char:EOLhyphen"/>ly Government over mens conſciences &amp; Churches, and that all the people under their Miniſtery are men unconverted, or at leaſt converted but in part, want<g ref="char:EOLhyphen"/>ing the main things, to wit Chriſts Kingly office: men viſibly out of the Covenant of grace, who have not ſo much as an outward profeſſion of faith, who deny Chriſt to be their King, to whoſe perſons and infants, the very Sacraments, and Seales of grace which all Church Communion may and ought to be denyed.</p>
+            <p>In the fore-going words, our brethren the Inde<g ref="char:EOLhyphen"/>pendent Miniſters, deſerting the way, the truth, and the life, like the jugling Jeſuits bring in their owne traditions and inventions as new-borne truths, ne<g ref="char:EOLhyphen"/>ver heard of before theſe diſtracted times: and un<g ref="char:EOLhyphen"/>der the notion of ſtrange Revelations for their own profit and repute, this hereſie both in pulpit and in preſſe hath been publiſhed, though there is no preſi<g ref="char:EOLhyphen"/>dent in ſacred authority for their practice, nor have they the leaſt colour for it in Chriſts Commiſſion: But becauſe ſome illeterate mechanicks are exalted with a ſtile of ſtate, as learned Interpreters of the Scriptures, who have learned a flattering faculty to magnifie their owne Churches as the onely Saints upon earth: And by this deluſion are blind guides leading them to the pit of perdition, which clearely ſhewes that the Independent Teachers generally re<g ref="char:EOLhyphen"/>ſemble thoſe the Apoſtle S. <hi>Iude</hi> mentions in the 10. and 19. Verſes, <hi>They ſpeake evill of thoſe things they
+<pb n="5" facs="tcp:114511:4"/> know not, who ſeparate themſelves, ſenſuall, having not the Spirit.</hi>
+            </p>
+            <p>
+               <hi>S. Paul</hi> in his Epiſtle to the <hi>Galatians, Gal.</hi> 1. 8, 9. he chargeth them (though the Apoſtles themſelves or an Angell from heaven ſhould preach unto them otherwiſe then they had received) they ſhould ac<g ref="char:EOLhyphen"/>count him accurſed, intimating unto them, that they muſt containe themſelves within the limits and bounds of that Doctrine and manner of preaching preſcribed and ſet down in the Word of God.</p>
+            <p>How ridiculous then do the ſeduced Independents make themſelves? who forgetting to ſearch the Scriptures, as the Bereans did, doe embrace with great applauſe, the innovation of braine-ſick phanta<g ref="char:EOLhyphen"/>ſies, when in the whole current of the Scriptures there is no warrant, that after men believe and are baptized, they ſhould walke with them ſome time, for a ſufficient triall of their converſations, and make a publike confeſſion of their faith and produce evidences for the truth of their converſion, enter in<g ref="char:EOLhyphen"/>to a ſolemne Covenant, and have the joynt-conſent of the whole Congregation before they can be ad<g ref="char:EOLhyphen"/>mitted Members of their Church; had theſe circum<g ref="char:EOLhyphen"/>ſtances been neceſſary, Chriſt would have put them into the Apoſtles Commiſſion, and the Holy Ghoſt <hi>Act.</hi> 1. would have ſuggeſted all theſe things into their memories: the new way, the new borne truth the new light, that they might have beene re<g ref="char:EOLhyphen"/>corded.</p>
+            <p>But the <hi>Eunuch</hi> no ſooner deſires Baptiſm of <hi>Phi<g ref="char:EOLhyphen"/>lip,</hi> that is admiſſion into the Church, but <hi>Philip</hi> granted it, no mention made of the Churches appro<g ref="char:EOLhyphen"/>bation:
+<pb n="6" facs="tcp:114511:5"/> the like admiſſion you may find by <hi>Paul</hi> and <hi>Silas, Act.</hi> 16. 31, 32, 33. without the fore-going in<g ref="char:EOLhyphen"/>novated formallity.</p>
+            <p>Therefore St. <hi>Pauls</hi> caution is ſeaſonable, to take heed of falſe Teachers, whatſoever ſhew of ſeeming Sanctitie they make, abuſing the ſimplicitie of the people for their owne advantage. And make their owne traditions joyned Members, with the Goſpell, as if they had a more fine weal and elegant way of gathering Churches and admitting Members then <hi>Paul,</hi> and the other Apoſtles, having new and better lights revealed unto them.</p>
+            <p>But that all reall Saints on earth may ſtill heare the voyce of Chriſt, and perſevers in the old and good way leading to eternall life. The ſame Apoſtles advice is like apples of gold in pictures of ſilver, <hi>Phil. 3. 17. Brethren be followers of me, and mark them which walke ſo as you have us for an example, for our converſation is in heaven:</hi> And in the 4. Chapter, Verſe 8. Hee ſaith, <hi>Finally brethren, whatſoever things are true, whatſoever things are honeſt, whatſoe<g ref="char:EOLhyphen"/>ver things are juſt, whatſoever things are pure, doe, and the God of peace ſhall be with you.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
